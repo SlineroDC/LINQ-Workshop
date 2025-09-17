@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop", "LINQ-Works
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop-2", "LINQ-Workshop-2\LINQ-Workshop-2.csproj", "{EE31900D-1794-4B96-939D-9D020551B35B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop-3", "LINQ-Workshop-3\LINQ-Workshop-3.csproj", "{69A0B277-8D95-4495-9718-CF7F2724BB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop-4", "LINQ-Workshop-4\LINQ-Workshop-4.csproj", "{4990B800-0986-4962-A8A5-F91EDADDA972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{EE31900D-1794-4B96-939D-9D020551B35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE31900D-1794-4B96-939D-9D020551B35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE31900D-1794-4B96-939D-9D020551B35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A0B277-8D95-4495-9718-CF7F2724BB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A0B277-8D95-4495-9718-CF7F2724BB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A0B277-8D95-4495-9718-CF7F2724BB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A0B277-8D95-4495-9718-CF7F2724BB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4990B800-0986-4962-A8A5-F91EDADDA972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4990B800-0986-4962-A8A5-F91EDADDA972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4990B800-0986-4962-A8A5-F91EDADDA972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4990B800-0986-4962-A8A5-F91EDADDA972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
