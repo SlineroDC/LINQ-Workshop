@@ -43,8 +43,7 @@ Console.WriteLine("Names concatenate: " + namesConcatenate);
 
 // Search and view the name highest in the list
 
-var nameHighest = names.Max(n => n.Length);
-Console.WriteLine("Highest name is: " + nameHighest);
+
 
 
 
