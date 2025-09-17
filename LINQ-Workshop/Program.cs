@@ -50,3 +50,4 @@ Console.WriteLine("Highest name is: " + nameHighest);
 
  
 // Exercise 3
+// continue exercise
