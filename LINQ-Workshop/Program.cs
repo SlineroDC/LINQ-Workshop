@@ -22,7 +22,7 @@ var multipliedBy2 = numbers.Select (n => n * 2).ToList();
 Console.WriteLine("Numbers Multiplied by 2: " + string.Join(", ", multipliedBy2));
 
 // exercise 2 
-var names = new List<string> {"Bob", "Charlie", "David","Eve", "Alice", "Alan", "Andrew"};
+var names = new List<string> {"Bob", "Charlie Wonka David Perceval", "David","Eve", "Alice", "Alan", "Andrew"};
 
 //  Order names alphabetically
 var orderedNames = names.OrderBy(n => n).ToList();
@@ -43,10 +43,10 @@ Console.WriteLine("Names concatenate: " + namesConcatenate);
 
 // Search and view the name highest in the list
 
+var nameHighest = names.OrderByDescending(n => n.Length).First();
+Console.WriteLine("Highest name is: " + nameHighest);
 
 
 
-
-
+ 
 // Exercise 3
-
