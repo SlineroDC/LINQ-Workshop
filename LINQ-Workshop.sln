@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop-3", "LINQ-Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Workshop-4", "LINQ-Workshop-4\LINQ-Workshop-4.csproj", "{4990B800-0986-4962-A8A5-F91EDADDA972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Practical-Project", "LINQ-Practical-Project\LINQ-Practical-Project.csproj", "{ED4FD936-4082-4572-AB42-4DC481CE0CBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4990B800-0986-4962-A8A5-F91EDADDA972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4990B800-0986-4962-A8A5-F91EDADDA972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4990B800-0986-4962-A8A5-F91EDADDA972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4FD936-4082-4572-AB42-4DC481CE0CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4FD936-4082-4572-AB42-4DC481CE0CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4FD936-4082-4572-AB42-4DC481CE0CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4FD936-4082-4572-AB42-4DC481CE0CBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
